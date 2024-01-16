@@ -28,6 +28,10 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
    - Arquivos : [Na trave](https://github.com/EdnaldoDev/na-trave)
    - Descrição: Um simples site, onde você pode dar palpites em jogos de fultebol.
    - Tecnologias usadas: ReactJS, PlanetScale, Prisma, Vercel.
+2. - Demo : [Magic Sublimação](https://magicsublimacao.vercel.app/)
+   - Arquivos : [Na trave](https://github.com/EdnaldoDev/xt-personalizacao)
+   - Descrição: Um simples site estilo ecommerce de venda de canecas e camisetas, .
+   - Tecnologias usadas: ReactJS, PlanetScale, Prisma, Vercel.
    
 ## Como Entrar em Contato
 
